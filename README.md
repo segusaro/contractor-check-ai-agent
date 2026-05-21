@@ -13,7 +13,7 @@
 
 # 🧱 2.Архитектура решения
 
-<img src="ai-agent-architecture.png" alt="Схема для проверки контрагентов" width="1000">
+<img src="ai-agent-architecture.png" alt="Схема для проверки контрагентов">
 
 Описание элементов схемы:
 
